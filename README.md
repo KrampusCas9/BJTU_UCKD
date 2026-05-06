@@ -1,2 +1,2 @@
 # BJTU_UCKD
-This repository is used to display the graduation design code of BJTU Fengming Zhao.
+This repository contains the implementation of Fengming Zhao's undergraduate thesis project on emotion recognition based on uncertainty-aware cross-modal knowledge distillation.
